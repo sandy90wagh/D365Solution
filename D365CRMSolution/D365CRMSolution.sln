@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365CRMSolution", "D365CRMSolution\D365CRMSolution.csproj", "{744EA216-7770-4A8A-9FF2-4DF822D9E646}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365CRM.Plugin", "D365CRM.Plugin\D365CRM.Plugin.csproj", "{3448A157-FC21-4974-81B6-28403968078E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365CRM.WebResources", "D365CRM.WebResources\D365CRM.WebResources.csproj", "{AB42328B-116C-4544-8875-872D1171C989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744EA216-7770-4A8A-9FF2-4DF822D9E646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744EA216-7770-4A8A-9FF2-4DF822D9E646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744EA216-7770-4A8A-9FF2-4DF822D9E646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744EA216-7770-4A8A-9FF2-4DF822D9E646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3448A157-FC21-4974-81B6-28403968078E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3448A157-FC21-4974-81B6-28403968078E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3448A157-FC21-4974-81B6-28403968078E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3448A157-FC21-4974-81B6-28403968078E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB42328B-116C-4544-8875-872D1171C989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB42328B-116C-4544-8875-872D1171C989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB42328B-116C-4544-8875-872D1171C989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB42328B-116C-4544-8875-872D1171C989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E8D9FB-6785-44AC-AD74-FABFBC9722DA}
+	EndGlobalSection
+EndGlobal
